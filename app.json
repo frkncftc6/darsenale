@@ -17,7 +17,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.frkncftc6.darsenale"
     },
     "android": {
       "adaptiveIcon": {
